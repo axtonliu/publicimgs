@@ -1,2 +1,2 @@
-# publicimgs
-images for published markdown documents
+# Markdown 图床
+我的图床
